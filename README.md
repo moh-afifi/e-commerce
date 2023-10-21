@@ -49,11 +49,17 @@ Flutter was chosen for the following reasons:
   
     10- Login, register, forgot password
   
-    11- Notifications
+    11- Notifications (using Firebase Cloud Messaging FCM)
   
     12- Addresses
   
     13- Search for products
+
+## Improvement Ares: 
+
+- Add localization files for the app to supprt multiple languages (not only Arabic).
+- Add navigator file to handle all app navigations in one single file.
+- Edit the global error file to display error messages coming from back-end side. 
 
 ## How to run the code:
 - Install Android studio and the setup the flutter SDK.( you can follow this link: https://docs.flutter.dev/get-started/install)
