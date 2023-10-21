@@ -1,5 +1,5 @@
 
-# wssal
+# Wssal
 
  This is an e-commerce app fully implemented using Dart programming language and Flutter framework.
 
@@ -16,7 +16,7 @@ Flutter was chosen for the following reasons:
 
 - Potential Drawbacks:
  
-    1- Flutter apps have high perfromance but not as high as native apps (However, the difference is not big).
+    1- Flutter apps have high performance but not as high as native apps (However, the difference is not big).
   
     2- Flutter uses Dart which is not widely used as many other languages.
   
@@ -26,17 +26,17 @@ Flutter was chosen for the following reasons:
 
 - This app conforms to the MVC pattern whic has three layers ( Model, View, controller)
 - The code-base is well-organized using features and every feature conforms to the MVC pattern.
-- A floder named "core" contains all the core files like, API-handler, common models, common widgtes, theme files,...etc.
+- A folder named "core" contains all the core files like, API-handler, common models, common widgtes, theme files,...etc.
 - Main features included in the app:
 
     1- Offers
     2- Categories , sub-categories
     3- Brands
     4- Best Selle products
-    5- Discout Products
+    5- Discount Products
     6- Cart
     7- Favorites
-    8- Orders (current, pervious)
+    8- Orders (current, previous)
     9- Support
     10- Login, register, forgot password
     11- Notifications
