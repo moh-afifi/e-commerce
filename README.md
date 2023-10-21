@@ -17,7 +17,9 @@ Flutter was chosen for the following reasons:
 - Potential Drawbacks:
  
     1- Flutter apps have high perfromance but not as high as native apps (However, the difference is not big).
+  
     2- Flutter uses Dart which is not widely used as many other languages.
+  
     3- App size is a bit larger than native apps.
 
 ## Code Overview:
