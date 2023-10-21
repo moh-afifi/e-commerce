@@ -55,7 +55,7 @@ Flutter was chosen for the following reasons:
   
     13- Search for products
 
-## Improvement Ares: 
+## Improvement Areas: 
 
 - Add localization files for the app to supprt multiple languages (not only Arabic).
 - Add navigator file to handle all app navigations in one single file.
