@@ -30,19 +30,30 @@ Flutter was chosen for the following reasons:
 - Main features included in the app:
 
     1- Offers
+  
     2- Categories , sub-categories
+  
     3- Brands
+  
     4- Best Selle products
+  
     5- Discount Products
+  
     6- Cart
+  
     7- Favorites
+  
     8- Orders (current, previous)
+  
     9- Support
+  
     10- Login, register, forgot password
+  
     11- Notifications
+  
     12- Addresses
+  
     13- Search for products
-    
 
 ## How to run the code:
 - Install Android studio and the setup the flutter SDK.( you can follow this link: https://docs.flutter.dev/get-started/install)
