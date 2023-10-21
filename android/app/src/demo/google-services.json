@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132810714391",
+    "project_id": "fir-d4b88",
+    "storage_bucket": "fir-d4b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132810714391:android:d25dcb046357a717799b52",
+        "android_client_info": {
+          "package_name": "com.wssal.wssal.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132810714391-7lo37quovi7h3pc2fcgse2uisva0k3l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjcV4EHTgFsGT1zvguLdKVkLSzozZgGNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132810714391-7lo37quovi7h3pc2fcgse2uisva0k3l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
