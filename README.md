@@ -29,25 +29,25 @@ Flutter was chosen for the following reasons:
 - A folder named "core" contains all the core files like, API-handler, common models, common widgtes, theme files,...etc.
 - Main features included in the app:
 
-    1- Offers
-  
+    1- Login, register, forgot password
+ 
     2- Categories , sub-categories
   
     3- Brands
   
-    4- Best Selle products
+    4- Best Seller products
   
     5- Discount Products
+
+    6- Offers
   
-    6- Cart
+    7- Cart
   
-    7- Favorites
+    8- Favorites
   
-    8- Orders (current, previous)
+    9- Orders (current, previous)
   
-    9- Support
-  
-    10- Login, register, forgot password
+    10- Support
   
     11- Notifications (using Firebase Cloud Messaging FCM)
   
@@ -69,8 +69,8 @@ Flutter was chosen for the following reasons:
 
     2- flutter run --flavor wssal
 
-- Note that this app contains two flavors: one for production and the other one is for demo.
-
+- Note that this app contains two flavors: one for releases and the other one is for demo.
+- Also note that the base url in the project is for test-purposes and not a production one.
 
 ## Login Credentials:
 
@@ -78,6 +78,7 @@ To use the app with an authenticated test-user, use the following credentials:
 
 - phone: 01020456040
 - password: 123456
+- 
 ## APK url: 
 
 To download a direct APK file for android, use the this link: https://drive.google.com/file/d/1KNWoNAozYuSoiNslOeVIle0-yAoTxy_x/view?usp=share_link
