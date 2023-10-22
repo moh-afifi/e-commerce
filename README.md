@@ -55,6 +55,8 @@ Flutter was chosen for the following reasons:
   
     13- Search for products
 
+    14- QR code scanning for products
+
 ## Improvement Areas: 
 
 - Add localization files for the app to supprt multiple languages (not only Arabic).
@@ -78,7 +80,7 @@ To use the app with an authenticated test-user, use the following credentials:
 
 - phone: 01020456040
 - password: 123456
-- 
+  
 ## APK url: 
 
 To download a direct APK file for android, use the this link: https://drive.google.com/file/d/1KNWoNAozYuSoiNslOeVIle0-yAoTxy_x/view?usp=share_link
